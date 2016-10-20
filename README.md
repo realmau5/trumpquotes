@@ -33,4 +33,4 @@ https://realmau5.xyz
 https://realmau5.wordpress.com
 
 
-* Follow realmau5: [Twitter](https://twitter.com/realmau5), [GitHub](https://github.com/realmau5)
+Follow realmau5: [Twitter](https://twitter.com/realmau5), [GitHub](https://github.com/realmau5)
