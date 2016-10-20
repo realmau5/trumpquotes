@@ -25,3 +25,8 @@ Return format example:
     {"message":"You know the funny thing? I don't get along with rich people.","nlp_attributes":{"quote_structure":[["Person","Infinitive","Determiner","Adjective","Noun"],["Person","Verb","Infinitive","Preposition","Adjective","Plural"]]}}
 
 
+## Misc:
+
+https://realmau5.xyz/ | https://realmau5.wordpress.com/
+
+* Follow realmau5: [Twitter](https://twitter.com/realmau5), [GitHub](https://github.com/realmau5)
