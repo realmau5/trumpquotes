@@ -55,7 +55,8 @@
                 </button>
                 <img  src="assets/img/donald-trump-head.png" alt="Welcome">
               </div>
-              <div class="intro--options">
+              <div class="hey">
+              You can use the <h2> Click me here bro </h2> button to get random Trump quotes. The quote is just a generic quote. it’s not neccesarily about a specific person and this is just for fun.
               </div>
             </div>
           </li>
@@ -151,7 +152,7 @@
                 console.log(hillary);
             },
             success: function(data) {
-                $('.intro--options').html('<h2>'+ data.message+'</h2>'); //using jQuery to append the data
+                $('.hey').html('<h2>'+ data.message+'</h2>'); //using jQuery to append the data
                 console.log(data);
 //                var data_array  = $.parseJSON(data); // create an object with the key of the array / Takes a well-formed JSON string and returns the resulting JavaScript value.
 
