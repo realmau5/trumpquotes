@@ -27,9 +27,7 @@ Return format example:
 
 ##Credits
 
-API   : https://whatdoestrumpthink.com/api-docs/index.html
-
-Theme : [BuckyMaler](https://github.com/BuckyMaler)
+API   : https://whatdoestrumpthink.com/api-docs/index.html Theme : [BuckyMaler](https://github.com/BuckyMaler)
 
 
 ##Demo
