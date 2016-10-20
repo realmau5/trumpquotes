@@ -27,6 +27,13 @@ Return format example:
 
 ## Misc:
 
+<<<<<<< .mine
+
+
+=======
+https://realmau5.xyz
+https://realmau5.wordpress.com
+>>>>>>> .theirs
 
 <a href="https://realmau5.com/" target="_blank">https://realmau5.wordpress.com/</a>
 <a href="https://realmau5.wordpress.com/" target="_blank">https://realmau5.wordpress.com/</a>
