@@ -1,4 +1,4 @@
-# trumpquotes
+# Trumpquotes
 Trumpquotes gets you the daily does of Donald Trump quotes and more
 
 
@@ -30,7 +30,9 @@ Return format example:
 
 Theme : [BuckyMaler](https://github.com/BuckyMaler)
 
+##Demo
 
+https://realmau5.github.io/trumpquotes
 
 ## ping me?
 
