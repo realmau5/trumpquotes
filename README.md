@@ -29,6 +29,7 @@ Return format example:
 
 
 Theme : [BuckyMaler](https://github.com/BuckyMaler)
+API   : https://whatdoestrumpthink.com/api-docs/index.html
 
 ##Demo
 
