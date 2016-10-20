@@ -45,7 +45,7 @@
             <div class="intro">
               <div class="intro--banner">
                 <h1>Daily<br>dose of Trump<br>quotes</h1>
-                <button>Punch me bro. I mean click me right on my face lol.
+                <button id="clickme">Click me here bro
                   <svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px" viewBox="0 0 150 118" style="enable-background:new 0 0 150 118;" xml:space="preserve">
                   <g transform="translate(0.000000,118.000000) scale(0.100000,-0.100000)">
                     <path d="M870,1167c-34-17-55-57-46-90c3-15,81-100,194-211l187-185l-565-1c-431,0-571-3-590-13c-55-28-64-94-18-137c21-20,33-20,597-20h575l-192-193C800,103,794,94,849,39c20-20,39-29,61-29c28,0,63,30,298,262c147,144,272,271,279,282c30,51,23,60-219,304C947,1180,926,1196,870,1167z"/>
@@ -53,7 +53,7 @@
                   </svg>
                   <span class="btn-background"></span>
                 </button>
-                <img src="assets/img/donald-trump-head.png" alt="Welcome">
+                <img  src="assets/img/donald-trump-head.png" alt="Welcome">
               </div>
               <div class="intro--options">
                 <a href="https://twitter.com/RealDonalDrumpf">
@@ -154,14 +154,14 @@
 <script>window.jQuery || document.write('<script src="assets/js/vendor/jquery-2.2.4.min.js"><\/script>')</script>
 <script src="assets/js/functions-min.js"></script>
 <script>
-    $('#action-button').click(function() {
+    $('#clickme').click(function() {
         $.ajax({
             url: 'https://api.whatdoestrumpthink.com/api/v1/quotes/random',
             error: function(error) {
-                console.log(there is an error);
+                console.log(hillary);
             },
             success: function(data) {
-                $('#info').html('<p>Check it out bro</p><br>'+ data.message+'<p> Haha not funny</p> '); //using jQuery to append the data
+                $('.intro--options').html('<h2>'+ data.message+'</h2>'); //using jQuery to append the data
                 console.log(data);
 //                var data_array  = $.parseJSON(data); // create an object with the key of the array / Takes a well-formed JSON string and returns the resulting JavaScript value.
 

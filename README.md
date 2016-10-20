@@ -25,6 +25,13 @@ Return format example:
     {"message":"You know the funny thing? I don't get along with rich people.","nlp_attributes":{"quote_structure":[["Person","Infinitive","Determiner","Adjective","Noun"],["Person","Verb","Infinitive","Preposition","Adjective","Plural"]]}}
 
 
+##Credits
+
+
+Theme : [BuckyMaler](https://github.com/BuckyMaler)
+
+
+
 ## ping me?
 
 
