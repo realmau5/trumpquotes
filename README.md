@@ -1,4 +1,4 @@
-# Trumpquotes
+# Trump Quotes
 Trumpquotes gets you the daily does of Donald Trump quotes and more
 
 
