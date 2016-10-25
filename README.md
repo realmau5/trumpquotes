@@ -1,5 +1,5 @@
 # Trump Quotes
-Daily dose of your Donald Trump quotes. The quote is just a generic quote and obiviously is just for fun. Have fun!
+Daily dose of your Donald Trump quotes. The quote is a generic quote and this obiviously is just for fun. Have fun!
 
 
 ## API
