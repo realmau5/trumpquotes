@@ -1,5 +1,5 @@
 # Trump Quotes
-Trumpquotes gets you the daily dose of Donald Trump quotes and more
+Daily dose of your Donald Trump quotes. The quote is just a generic quote and obiviously is just for fun. Have fun!
 
 
 ## API
