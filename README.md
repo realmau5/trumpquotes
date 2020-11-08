@@ -37,6 +37,6 @@ https://realmau5.github.io/trumpquotes
 ## ping me?
 
 
-https://realmau5.xyz 
+email me kashif@realmau5.com
 
-https://twitter.com/realmau5
+tweet me @realmau5
